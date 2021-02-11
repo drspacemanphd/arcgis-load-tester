@@ -1,0 +1,4 @@
+**/target/*
+**/resources/hub/*
+.DS_Store
+**/.DS_Store
